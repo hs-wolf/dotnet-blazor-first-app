@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-app", "web-app\web-app.csproj", "{16FB8E03-57A9-4383-8B23-22F0318C90DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todo-list-app", "todo-list-app\todo-list-app.csproj", "{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +32,17 @@ Global
 		{16FB8E03-57A9-4383-8B23-22F0318C90DC}.Release|x64.Build.0 = Release|Any CPU
 		{16FB8E03-57A9-4383-8B23-22F0318C90DC}.Release|x86.ActiveCfg = Release|Any CPU
 		{16FB8E03-57A9-4383-8B23-22F0318C90DC}.Release|x86.Build.0 = Release|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Debug|x64.Build.0 = Debug|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Debug|x86.Build.0 = Debug|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Release|x64.ActiveCfg = Release|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Release|x64.Build.0 = Release|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Release|x86.ActiveCfg = Release|Any CPU
+		{1ABD286D-D05A-4E0A-A4A3-F5ADD4A5FC88}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
