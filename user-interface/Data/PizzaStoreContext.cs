@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using user_interface.Models;
 
 namespace user_interface.Data;
 

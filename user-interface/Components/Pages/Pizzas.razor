@@ -13,22 +13,16 @@ else
   <table>
   <thead>
     <tr>
-      <th>Pizza Name</th>
-      <th>Description</th>
-      <th>Vegetarian?</th>
-      <th>Vegan?</th>
-      <th>Price</th>
+      <th>Pizza Id</th>
+      <th>Order Id</th>
     </tr>
   </thead>
   <tbody>
     @foreach (var pizza in todaysPizzas)
       {
         <tr>
-          <td>@pizza.Name</td>
-          <td>@pizza.Description</td>
-          <td>@pizza.Vegetarian</td>
-          <td>@pizza.Vegan</td>
-          <td>@pizza.Price</td>
+          <td>@pizza.Id</td>
+          <td>@pizza.OrderId</td>
         </tr>
       }
     </tbody>
@@ -36,7 +30,6 @@ else
 }
 
 @code {
-  @using user_interface.Data
   @inject PizzaService PizzaSvc
 
   private Pizza[]? todaysPizzas;

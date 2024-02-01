@@ -1,3 +1,5 @@
+using user_interface.Models;
+
 namespace user_interface.Data;
 
 public static class SeedData

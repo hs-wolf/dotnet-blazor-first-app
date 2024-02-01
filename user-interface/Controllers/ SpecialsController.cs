@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using user_interface.Data;
+using user_interface.Models;
 
 namespace user_interface.Controllers;
 
