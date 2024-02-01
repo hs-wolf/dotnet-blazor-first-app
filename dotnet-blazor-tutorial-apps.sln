@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todo-list-app", "todo-list-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "user-interface", "user-interface\user-interface.csproj", "{0E49DE55-6C7C-480B-A6D6-07851F2DFB84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "improve-navigation", "improve-navigation\improve-navigation.csproj", "{BD88C562-920D-4F89-B07F-4D5457E3477F}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,5 +60,17 @@ Global
 		{0E49DE55-6C7C-480B-A6D6-07851F2DFB84}.Release|x64.Build.0 = Release|Any CPU
 		{0E49DE55-6C7C-480B-A6D6-07851F2DFB84}.Release|x86.ActiveCfg = Release|Any CPU
 		{0E49DE55-6C7C-480B-A6D6-07851F2DFB84}.Release|x86.Build.0 = Release|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Debug|x64.Build.0 = Debug|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Debug|x86.Build.0 = Debug|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Release|x64.ActiveCfg = Release|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Release|x64.Build.0 = Release|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Release|x86.ActiveCfg = Release|Any CPU
+		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
