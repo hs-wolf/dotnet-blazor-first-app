@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "user-interface", "user-inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "improve-navigation", "improve-navigation\improve-navigation.csproj", "{BD88C562-920D-4F89-B07F-4D5457E3477F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImproveForms", "ImproveForms\ImproveForms.csproj", "{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,5 +74,17 @@ Global
 		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Release|x64.Build.0 = Release|Any CPU
 		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Release|x86.ActiveCfg = Release|Any CPU
 		{BD88C562-920D-4F89-B07F-4D5457E3477F}.Release|x86.Build.0 = Release|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Debug|x64.Build.0 = Debug|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Debug|x86.Build.0 = Debug|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Release|x64.ActiveCfg = Release|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Release|x64.Build.0 = Release|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Release|x86.ActiveCfg = Release|Any CPU
+		{93D88FB1-ADBF-4B87-A162-D2213DEF92BB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
